@@ -1,0 +1,2 @@
+# milvus_demo
+这是结合milvus和gensim的Word2vec算法的demo文件。通过gensim的word2vec算法，将单词转换成特征向量载入milvus中，从而对单词可以做聚类分析，以及相似度分析。
